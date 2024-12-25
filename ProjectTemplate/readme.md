@@ -47,10 +47,12 @@ This folder serves as a reusable template for organizing and structuring data sc
 ## Example Usage
 
 ### Example Structure for a New Project:
-Project1/ ├── data/ │ └── dataset.csv ├── notebooks/ │ └── analysis.ipynb ├── scripts/ │ └── data_cleaning.py ├── results/ │ └── visualization.png └── README.md
+## Folder Structure
+- **`data/`**: Store raw and processed datasets (e.g., `.csv`, `.xlsx`, `.json`).
+- **`notebooks/`**: Save Jupyter notebooks for exploratory analysis and visualization.
+- **`scripts/`**: Add Python scripts for data cleaning, transformation, or modeling.
+- **`results/`**: Save visualizations, reports, or exported outputs.
 
-
-This structure ensures that all projects follow the same organizational pattern, making it easier to maintain and collaborate on.
 
 ---
 
