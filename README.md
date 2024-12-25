@@ -15,8 +15,8 @@ This repository showcases my journey in data science, featuring projects that de
 ---
 
 ## Current Projects  
-1. **Project Title**: *TBA 2025*  
-2. **Project Title**: *TBA MID 2025*  
+- [Project1](https://github.com/GJAYRIVERA/DataProjects/tree/main/Project1): *TBA 2025*
+- [ProjectTemplate](https://github.com/GJAYRIVERA/DataProjects/tree/main/ProjectTemplate): A reusable template for structuring future data science projects.
 
 ---
 
