@@ -24,3 +24,8 @@ This repository showcases my journey in data science, featuring projects that de
 Clone the repository and explore individual project directories:  
 ```bash
 git clone https://github.com/GJAYRIVERA/DataProjects.git
+
+## Contact  
+Feel free to connect or ask questions!  
+- **Email**: gilbertojasonrivera@gmail.com  
+- **LinkedIn**: TBA
