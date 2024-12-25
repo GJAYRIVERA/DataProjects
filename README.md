@@ -25,9 +25,8 @@ Clone the repository and explore individual project directories:
 ```bash
 git clone https://github.com/GJAYRIVERA/DataProjects.git
 
----
-markdown
 ## Contact  
 Feel free to connect or ask questions!  
-- **Email**: gilbertojasonrivera@gmail.com  
-- **LinkedIn**: TBA
+
+- **Email**: [gjayrivera@example.com](mailto:gjayrivera@example.com)  
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/gjayrivera/)  
