@@ -15,15 +15,18 @@ This repository showcases my journey in data science, featuring projects that de
 ---
 
 ## Current Projects  
-1. **Project Title**: *TBA 2025*  
-2. **Project Title**: *TBA Mid 2025*  
+1. **Project Title**: *Brief description of what this project does or analyzes.*  
+2. **Project Title**: *Another brief description of a project.*  
 
 ---
 
 ## How to Use  
+
 Clone the repository and explore individual project directories:  
+
 ```bash
 git clone https://github.com/GJAYRIVERA/DataProjects.git
+
 
 ## Contact  
 Feel free to connect or ask questions!  
