@@ -15,8 +15,17 @@ This repository showcases my journey in data science, featuring projects that de
 ---
 
 ## Current Projects  
-1. **Project Title**: *Brief description of what this project does or analyzes.*  
-2. **Project Title**: *Another brief description of a project.*  
+1. **Project Title**: *TBA 2025*  
+2. **Project Title**: *TBA MID 2025*  
+
+---
+
+
+## Contact
+Feel free to connect or ask questions!  
+
+- **Email**: [gilbertojasonrivera@gmail.com](mailto:gilbertojasonrivera@gmail.com)  
+- **LinkedIn**: [TBA](https://www.linkedin.com/)
 
 ---
 
@@ -29,8 +38,3 @@ git clone https://github.com/GJAYRIVERA/DataProjects.git
 
 ---
 
-## Contact  
-Feel free to connect or ask questions!  
-
-- **Email**: [gjayrivera@example.com](mailto:gjayrivera@example.com)  
-- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/gjayrivera/)  
